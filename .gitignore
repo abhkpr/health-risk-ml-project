@@ -9,9 +9,8 @@ env/
 dist/
 build/
 
-# ML Models
-backend/models/*.pkl
-backend/*.pkl
+# ML Models (committed intentionally — pre-trained for Render deploy)
+# backend/models/*.pkl
 
 # Node
 node_modules/
